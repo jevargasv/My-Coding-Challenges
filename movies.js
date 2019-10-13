@@ -1,12 +1,12 @@
-function nycdaWelcome (name) {
-    return `Welcome to NYCDA ${name}! Enjoy your stay!`
+function nycdaWelcome(name) {
+    return `Welcome to NYCDA ${name}! Enjoy your stay!`;
   }
   
-  function brokenCalculator (numOne, numTwo) {
-    return numTwo * 3
+  function brokenCalculator(numOne, numTwo) {
+    return numTwo * 3;
   }
   
-  function lineThemUp (numOne, numTwo, numThree) {
+  function lineThemUp(numOne, numTwo, numThree) {
     return [numOne, numTwo, numThree]
   }
   
