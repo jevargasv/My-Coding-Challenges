@@ -73,7 +73,7 @@ class Animal {
      
      eat(){
         //some type of functionality 
-         console.log('Some Functionality from the turtle class')
+         console.log('Some Functionality from the turtle class');
      }
  }
  
@@ -96,7 +96,7 @@ Example Two - With Inheritance
     }
    
    eat(){
-        console.log('functionality - eat method in the animal class')
+        console.log('functionality - eat method in the animal class');
     }
   }
  
