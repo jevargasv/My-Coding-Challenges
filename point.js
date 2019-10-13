@@ -2,29 +2,29 @@
 
 let calculator = (answer) => {
     if(answer === 6) {
-        return 4 + 2 // 6
+        return 4 + 2; // 6
     } else if(answer === 2) {
-        return 4 - 2 // 2
+        return 4 - 2; // 2
     } else if(answer === 2) {
-        return 4 / 2 // 2
+        return 4 / 2; // 2
     } else(answer === 8) {
-        return 4 * 2 // 8
+        return 4 * 2; // 8
     }
 }
 
 console.log(answer) // 6
 function calculator(4, 2) {
-    return 4 - 2 // 2
+    return 4 - 2; // 2
 }
 answer = calculator("subtract", 4, 2)
 console.log(answer) // 2
 function calculator(4, 2) {
-    return 4 / 2 // 2
+    return 4 / 2; // 2
 }
 answer = calculator("divide", 4, 2)
 console.log(answer) // 2
 function calculator(4, 2) {
-    return 4 * 2 // 8
+    return 4 * 2; // 8
 }
 answer = calculator("multiply", 4, 2)
 console.log(answer) // 8
