@@ -1,4 +1,4 @@
-let body = document.body
+let body = document.body;
 
 
 let ul = document.createElement('ul');
