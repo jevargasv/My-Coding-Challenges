@@ -27,12 +27,12 @@ const includesNumber = /[0-9]/;
 
 valiForm.addEventListener("submit", (e) => {
     if((passwordField.value === "12345678" && userNameField.value.match(includesNumber))) {
-       console.log("CORRECT")
-       title.innerText = "CORRECT"
-    } else {}
+       console.log("CORRECT");
+       title.innerText = "CORRECT";
+    } else {
        console.log("INCORRECT")
        title.innerText = "INCORRECT"
-});
+}});
 e.preventdefault();
 
 document.getElementById('myId');
@@ -49,24 +49,24 @@ document.getElementsByTagName('span');
 
 let y = document.getElementsByTagName('span');
 
-let firstspan = y[0]
+let firstspan = y[0];
 
-firstspan
+firstspan;
 
 y = '';
 
-firstspan.attributes
+firstspan.attributes;
 
 firstspan.attributes["class"];
 
 let myMainHeader =
 document.getElementById('myId');
 
-myMainHeader.innerText = "This is my new header value"
+myMainHeader.innerText = "This is my new header value.";
 
-document.getElementById('myId').innerText = "This is my new header two"
+document.getElementById('myId').innerText = "This is my new header two.";
 
-document.getElementById('container').innerText
+document.getElementById('container').innerText;
 
 
 let submitButton = document.getElementbyId("submit-button");
