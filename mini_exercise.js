@@ -14,9 +14,9 @@ for (let i = 0; i < prices.length; i++) {
 
 for (let i = 99; i >= 1; i--) {
     if (i === 1) {
-    console.log ("1 crow on the wall. 1 single crow. \nIt fell down and became a wight. \nThere's no one left to defend Westeros now.")
+    console.log ("1 crow on the wall. 1 single crow. \nIt fell down and became a wight. \nThere's no one left to defend Westeros now.");
     } else {
-    console.log (`${i}crows on the wall. ${i}"crows.", \n1 fell down and became a wight. \n${i - 1}"crows on the wall.`)
+    console.log (`${i}crows on the wall. ${i}"crows.", \n1 fell down and became a wight. \n${i - 1}"crows on the wall.`);
     }
 }
 
