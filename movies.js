@@ -7,7 +7,7 @@ function nycdaWelcome(name) {
   }
   
   function lineThemUp(numOne, numTwo, numThree) {
-    return [numOne, numTwo, numThree]
+    return [numOne, numTwo, numThree];
   }
   
   // arrow functions
@@ -21,17 +21,17 @@ function nycdaWelcome(name) {
   funcName();
   
   let defaultArgs = (argOne, argTwo = 5) => {
-    return argOne + argTwo
+    return argOne + argTwo;
   }
   
   defaultArgs (1,1)
   
   function multiplyByThree(number) {
-    return number * 3
+    return number * 3;
   }
   
   function addTwo(number) {
-    return number + 2
+    return number + 2;
   }
   
   function addTwoMultiplyByThree(number) {
