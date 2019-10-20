@@ -1,3 +1,4 @@
+// Greatest Sum
 let array = [2, -18, 29, -34, 42, -51]; 
 let greatestSum = newArray => {
  let highSum = 0;
@@ -22,7 +23,7 @@ let greatestSum = (arr) => {
 
 greatestSum(testArr);
 
-
+// Remove Duplicate
 let removeDuplicateChar = (string) => {
     let mapping = {};
     let newString = '';
