@@ -1,3 +1,4 @@
+// Comparing numbers
 let compare = (numbers, value) => {
     let lessThan = [];
     let greaterThan = [];
