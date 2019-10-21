@@ -1,3 +1,4 @@
+// FizzBuzz challenge
 let printOutputs = ("Fizz", "Buzz") => {
 
 for(i = 1; i <= 100; i++) {
