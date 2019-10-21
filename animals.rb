@@ -1,3 +1,4 @@
+# Animals
 animal_text = IO.readlines("animals.txt")
 
 animal_text.each do |line|
