@@ -1,3 +1,4 @@
+# Divisible?
 def divisible?(number, divider)
     if number % divider == 0
         return true
