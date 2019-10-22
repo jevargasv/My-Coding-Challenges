@@ -1,3 +1,5 @@
+// DOM exercise
+
 let title = document.getElementbyId("nycda-title");
 
 title.innerText = "Welcome to NYCDA";
