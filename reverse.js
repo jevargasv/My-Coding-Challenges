@@ -13,6 +13,7 @@ for(i = 1; i <= 100; i++) {
     }
 }
 
+// Pig Latin
 let pigLatin = (word) => {
     let array = word.split("");
     let vowels = ["a", "e", "i", "o", "u"];
