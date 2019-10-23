@@ -1,3 +1,5 @@
+Animal List
+
 giraffe: height=10, gender=male, weight=320
 elephant: height=7, gender=female, weight=200
 kangaroo: height=10, gender=female, weight=400
