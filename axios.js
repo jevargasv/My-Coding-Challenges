@@ -1,4 +1,4 @@
-// Axios challenge
+// Axios/DOM challenge
 let body = document.body;
 
 
