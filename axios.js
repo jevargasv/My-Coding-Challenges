@@ -17,6 +17,7 @@ axios.get("https://sei-api.herokuapp.com/students").then((response) => {
     });
 })
 
+// Capitalize words
 let capitalize = (string) => {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
