@@ -31,6 +31,7 @@ let pigLatin = (word) => {
     }
 }
 
+// Palindrome
 let palindrome = (string) => {
     if(string == string.split("").reverse().join("")) {
         console.log(string + "is a palindrome.");
