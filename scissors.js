@@ -90,6 +90,7 @@ console.log(message);
 console.log(encodedMessage);
 console.log(decodedMessage);
 
+// Converting Celsius to Fahrenheit
 function cToF(celsius) 
 {
 	  const cTemp = celsius;
