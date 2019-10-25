@@ -70,7 +70,7 @@ let gcDivisor = (integer1, integer2) => {
        }
    }
 
-   // another possible solution
+   // Another Possible Solution
 
    let gcDivisor = (a, b) => {
        // declare two arrays
