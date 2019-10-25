@@ -21,6 +21,8 @@ document.addEventListener("keypress", (e) => {
     title.innerText = e.key;
 });
 
+// Valid Username and Password Form
+
 let valiForm = document.getElementById("myvalidation");
 let emailField = document.getElementById("email");
 let userNameField = document.getElementById("username");
