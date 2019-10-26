@@ -151,6 +151,7 @@ function binarySearch(arr, i) {
 
 }
 
+// Tip Amount
 let tipAmount = (50, 5, 50); // "$1 per person".
 
 function calc() {
