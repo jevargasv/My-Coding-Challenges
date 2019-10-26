@@ -73,7 +73,7 @@ console.log(myAge);
 
 let test = () => {
     let x = 50;
-    if(x>30) {
+    if(x > 30) {
         let blockscope = "This is block scoped"
         console.log ('Blah') }
     else {
@@ -85,6 +85,7 @@ let test = () => {
 
 test();
 
+// Pet Name
 function petName(name) {
     return "My pet's name is " + name
   }
