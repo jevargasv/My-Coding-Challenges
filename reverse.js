@@ -9,7 +9,7 @@ for(i = 1; i <= 100; i++) {
     } else if(i % 3 && i % 5) {
         console.log("FizzBuzz"); // FizzBuzz
     } else {
-        console.log(i) // Errrrrrrr......
+        console.log(i) // Errrrrrrr........
     }
 }
 
