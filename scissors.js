@@ -166,7 +166,8 @@ function calc() {
 let parser = ("a", "aaaa3fvsdfr"); => // 4
 
 
-down vote
+/* Down vote;
 You could use split() to modify your code like this:
+*/
 
 var newstring = string.match(/set=[^ ]+/)[0].split(".")[1];
