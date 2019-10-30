@@ -48,7 +48,7 @@ function nycdaWelcome(name) {
   addTwoMultiplyByThree(10) // 36
   addTwoMultiplyByThree(2) // 1
 
-// Scope
+// Scoping
 
 let name = "david"
 let myAge = 894093
