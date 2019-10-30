@@ -18,7 +18,7 @@ end
 
 puts max_value([1, 2, 4]) # => [4, 1]
 
-# Conversion
+# Conversion Within Arrays
 
 array1: [:toyota, :tesla],
 array2: [:"Prius", :"Model S"]
