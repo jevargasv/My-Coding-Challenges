@@ -10,7 +10,7 @@ for (let i = 0; i < prices.length; i++) {
 
 }
 
-// Game of Thrones - 99 Crows
+// Game of Thrones - 99 Crows on the Wall
 
 for (let i = 99; i >= 1; i--) {
     if (i === 1) {
