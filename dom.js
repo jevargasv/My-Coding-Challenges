@@ -39,6 +39,8 @@ valiForm.addEventListener("submit", (e) => {
 }});
 e.preventdefault();
 
+// Random DOM JS Code
+
 document.getElementById('myId');
 
 document.getElementsByClassName('myClass');
