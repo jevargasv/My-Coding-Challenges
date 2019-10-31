@@ -90,7 +90,7 @@ turtleBob.eat();
  //----------------------------------------------
  
  
-Example Two - With Inheritance
+// Example Two - With Inheritance
   class Animal {
     constructor(typeOfAnimal, size) {
       this.typeOfAnimal = typeOfAnimal;
