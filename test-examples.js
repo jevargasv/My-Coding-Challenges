@@ -1,3 +1,5 @@
+// Random JS Code
+
 alert ('Hello World!');
 
 let myGrade = 90;
