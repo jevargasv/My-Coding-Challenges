@@ -1,4 +1,4 @@
-// Rock/Paper/Scissors Game
+// Rock/Paper/Scissors JS Game
 
 let gameOver = false;
 let computerChoices = ["rock", "paper", "scissors"];
