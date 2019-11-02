@@ -27,7 +27,7 @@ if(computerChoice === "rock" && input === "scissors"){
 }
 
 alert("You win!");``
-return true
+return true;
 }
 
 function start(gameOver, computerChoices) {
