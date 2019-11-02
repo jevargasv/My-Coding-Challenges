@@ -39,7 +39,7 @@ let removeDuplicateChar = (string) => {
 
 console.log(removeDuplicateChar("Learn more javascript dude"));
 
-let testStr = "Learn more dudel"
+let testStr = "Learn more dudel";
 
 let removeDuplicateChar = (str) => {
     let counter = {}
