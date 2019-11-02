@@ -53,7 +53,7 @@ end
 
 shout "offset", "skrrrt", "skrrrrt", "skrrrrrt", "hello world"
 
-# String Info
+# String Info Within String
 
 def string_info(str)
     output = {
