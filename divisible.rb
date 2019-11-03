@@ -1,4 +1,5 @@
-# Divisible or Not?
+# Divisible or Not (Ruby)?
+
 def divisible?(number, divider)
     if number % divider == 0
         return true
