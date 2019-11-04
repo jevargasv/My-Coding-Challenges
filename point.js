@@ -43,8 +43,8 @@ let setofQuestions = (point) => {
     return ask(point)
 
 }
-let point = ask("Is Kim the best?", "true")
-console.log(point)
+let point = ask("Is Kim the best?", "true");
+console.log(point);
 
 function setofQuestions(question, answer) {
     return ["Was Kim born in 1985?", "Will Rob get out of jail?", "Does North seem happy?", "Kanye released 'Heartless' in 2008?"] // [yes, no, no, yes]
