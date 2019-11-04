@@ -1,4 +1,4 @@
-# Divisible or Not (Ruby)?
+# Divisible or Not (Ruby with Filters)?
 
 def divisible?(number, divider)
     if number % divider == 0
