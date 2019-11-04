@@ -34,8 +34,8 @@ valiForm.addEventListener("submit", (e) => {
        console.log("CORRECT");
        title.innerText = "CORRECT";
     } else {
-       console.log("INCORRECT")
-       title.innerText = "INCORRECT"
+       console.log("INCORRECT");
+       title.innerText = "INCORRECT";
 }});
 e.preventdefault();
 
