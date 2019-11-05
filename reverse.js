@@ -1,4 +1,5 @@
 // FizzBuzz challenge
+
 let printOutputs = ("Fizz", "Buzz") => {
 
 for(i = 1; i <= 100; i++) {
@@ -14,6 +15,7 @@ for(i = 1; i <= 100; i++) {
 }
 
 // Pig Latin
+    
 let pigLatin = (word) => {
     let array = word.split("");
     let vowels = ["a", "e", "i", "o", "u"];
@@ -32,6 +34,7 @@ let pigLatin = (word) => {
 }
 
 // Palindrome
+
 let palindrome = (string) => {
     if(string == string.split("").reverse().join("")) {
         console.log(string + "is a palindrome.");
@@ -78,15 +81,15 @@ let gcDivisor = (integer1, integer2) => {
        let divTwoArray = []
 
        for(let i = 1; i <= a; i++) {
-           if (a%i === 0) {
-               divOneArray.push(i)
+           if(a % i === 0) {
+               divOneArray.push(i);
            }
        }
    }
 
        for(let i = 1; i<= b; i++) {
-           if(b%i === 0) {
-               divTwoArray.push(i)
+           if(b % i === 0) {
+               divTwoArray.push(i);
            }
        }
 
