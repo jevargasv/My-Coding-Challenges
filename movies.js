@@ -1,4 +1,5 @@
 // Random JS Functions
+
 function nycdaWelcome(name) {
     return `Welcome to NYCDA ${name}! Enjoy your stay!`;
   }
