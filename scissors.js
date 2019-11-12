@@ -91,6 +91,7 @@ console.log(encodedMessage);
 console.log(decodedMessage);
 
 // Converting Celsius to Fahrenheit
+
 function cToF(celsius) 
 {
 	  const cTemp = celsius;
@@ -107,7 +108,7 @@ function cToF(celsius)
 	    console.log(message);
 	} 
 	cToF(60);
-  fToC(45);
+        fToC(45);
 
   let arr = [1, 0, 21, 2, 506, 9, 67];
 
