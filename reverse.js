@@ -53,7 +53,7 @@ let gcDivisor = (integer1, integer2) => {
         return integer2;
     }
 
-    // one possible solution
+ // One Possible Solution
 
 let gcDivisor = (integer1, integer2) => {
     if(!integer2) {
