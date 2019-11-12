@@ -7,6 +7,7 @@ end
 puts argument("Only in America!") #=> Only in America!
 
 # Max Value
+
 const_num_max = (2 ** (0.size * 8 - 2) - 1)
 
 def max_value(array)
