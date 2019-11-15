@@ -200,6 +200,7 @@ while(number <= 15) {
   console.log("JS is cool") // will display this 15 times
   number++
 }
+
 /*
   This can be used to loop over arrays but for loops are more clear
 */
