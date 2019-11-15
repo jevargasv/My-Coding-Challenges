@@ -78,8 +78,9 @@ document.getElementById('container').innerText;
 let submitButton = document.getElementbyId("submit-button");
 let inputBox = document.getElementbyId("input-important");
 let title = document.getElementbyId("nycda-title");
+
 submitButton.addEventListener("click", () => {
   console.log(inputBox.value)
   title.innerText = inputBox.value
   e.preventdefault();
- })
+ });
