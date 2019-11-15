@@ -65,7 +65,7 @@ firstspan.attributes;
 
 firstspan.attributes["class"];
 
-let myMainHeader =
+let myMainHeader = '';
 document.getElementById('myId');
 
 myMainHeader.innerText = "This is my new header value.";
