@@ -25,6 +25,7 @@ let greatestSum = (arr) => {
 greatestSum(testArr);
 
 // Remove Duplicate
+
 let removeDuplicateChar = (string) => {
     let mapping = {};
     let newString = '';
