@@ -1,4 +1,4 @@
-// Random JS Functions
+// Random JS Functions for Practice
 
 function nycdaWelcome(name) {
     return `Welcome to NYCDA ${name}! Enjoy your stay!`;
