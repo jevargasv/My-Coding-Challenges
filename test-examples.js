@@ -1,4 +1,4 @@
-// Random JS Code
+// Random JS Code for Practice
 
 alert ('Hello World!');
 
