@@ -1,4 +1,4 @@
-// Comparing Random Numbers
+// Comparing Random Numbers for Practice
 
 let compare = (numbers, value) => {
     let lessThan = [];
