@@ -1,4 +1,4 @@
-// Calculator Arrow JS Function
+// Calculator Arrow JS Function Practice
 
 let calculator = (answer) => {
     if(answer === 6) {
