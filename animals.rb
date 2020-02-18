@@ -1,4 +1,4 @@
-# Animal Ruby List
+# Animal Ruby List Practice
 
 animal_text = IO.readlines("animals.txt")
 
