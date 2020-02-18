@@ -1,4 +1,4 @@
-// Greatest Sum (Eva!)
+// Greatest Sum (Eva!) for Practice
 
 let array = [2, -18, 29, -34, 42, -51]; 
 let greatestSum = newArray => {
