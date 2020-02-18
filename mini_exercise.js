@@ -1,4 +1,4 @@
-// Running Sum Problem
+// Running Sum Problem for Practice
 
 let prices = [33, 26, 99, 120, 12, 45];
 let sum = 0;
