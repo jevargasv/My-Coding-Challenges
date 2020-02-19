@@ -1,4 +1,4 @@
-Animal List/Details (Ruby)
+Animal List/Details (Ruby) for Practice
 
 giraffe: height=10, gender=male, weight=320
 elephant: height=7, gender=female, weight=200
