@@ -1,4 +1,4 @@
-// FizzBuzz challenge
+// FizzBuzz challenge and practice
 
 let printOutputs = ("Fizz", "Buzz") => {
 
