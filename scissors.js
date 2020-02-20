@@ -56,7 +56,7 @@ Javascript features and functions in use:
 **/
 
 function encode(word) {
-  //somewhere to setore the converted caracters
+  //somewhere to setore the converted characters
   let result = {};
   //next we loop over each character in the string.
 for(let position of word){
