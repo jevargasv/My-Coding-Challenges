@@ -10,7 +10,7 @@ for (let i = 0; i < prices.length; i++) {
 
 }
 
-// Game of Thrones - 99 Crows on the Wall
+// Game of Thrones - 99 Crows on the Wall for Practice
 
 for (let i = 99; i >= 1; i--) {
     if (i === 1) {
@@ -20,7 +20,7 @@ for (let i = 99; i >= 1; i--) {
     }
 }
 
-// Counter Problem
+// Counter Problem for Practice
 
 let arr = [5,10,5,2,2,1,653,5,90,5,2,7,9,20,43,92,1,74];
 
