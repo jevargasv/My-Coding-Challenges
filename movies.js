@@ -12,7 +12,7 @@ function nycdaWelcome(name) {
     return [numOne, numTwo, numThree];
   }
   
-  // Arrow Functions
+  // Arrow Functions for Practice
 
   let funcName = (params) => params + 2
   let funcName = () => 2
@@ -50,7 +50,7 @@ function nycdaWelcome(name) {
   addTwoMultiplyByThree(10) // 36
   addTwoMultiplyByThree(2) // 1
 
-// Scoping
+// Scoping for Practice
 
 let name = "david"
 let myAge = 894093
