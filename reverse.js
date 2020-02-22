@@ -14,7 +14,7 @@ for(i = 1; i <= 100; i++) {
     }
 }
 
-// Pig Latin
+// Pig Latin Practice
     
 let pigLatin = (word) => {
     let array = word.split("");
