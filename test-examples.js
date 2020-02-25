@@ -196,6 +196,7 @@ let table = {
   let number = 1
 
 // will loop until the conditional becomes true
+  
 while(number <= 15) {
   console.log("JS is cool") // will display this 15 times
   number++
