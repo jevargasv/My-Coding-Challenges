@@ -194,7 +194,7 @@ function petName(name) {
   
   console.log(fibo(8));
   
-  // One solution
+  // One possible solution
   
   let fibonacciSequence = n => {
       if (n === 1)
@@ -207,7 +207,7 @@ function petName(name) {
       return s
   }
   
-  // Two solutions
+  // Two possible solutions
   
   const fibo = length => {
       if (length == 1)
