@@ -87,7 +87,7 @@ let test = () => {
 
 test();
 
-// Pet Name
+// Pet Name for Practice
 
 function petName(name) {
     return "My pet's name is " + name
