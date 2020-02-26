@@ -64,7 +64,7 @@ let answers = [
     "yes"
 ]
 
-// FUCK THE KARDASHIANS, MEET THE WEASLEYS, BITCHES!!!!
+// FUCK THE KARDASHIANS, MEET THE WEASLEYS, BITCHES!!!! HA HA HA!!!!
 
 let questionsone = [
     "Do the Weasleys have a daughter?",
