@@ -7,7 +7,7 @@ let car = {
     drive: function() {
       console.log('vroom vroom')
     }
-    getBrand: function(){
+    getBrand: function() {
       console.log(this.brand)
     }
   }
@@ -18,13 +18,13 @@ let car = {
       this.name = name
     }
   
-    speak(){
+    speak() {
       console.log(this.name + 'Animal Speaks')
     }
   }
   
   class Dog extends Animal{
-    speak(){
+    speak() {
       console.log('Woof')
     }
   }
@@ -37,10 +37,10 @@ let car = {
   
   let multiplier = {
     value: 1,
-    multiply: function(multiplier){
+    multiply: function(multiplier) {
       this.value = this.value * multiplier
     },
-    getCurrentValue: function(){
+    getCurrentValue: function() {
       return this.value
     }
   }
@@ -61,17 +61,17 @@ let car = {
       }
   
       addPhoto(photoInput){
-        photoInput.id = this.photos.length
+        photoInput.id = this.photos.length;
         console.log(photoInput)
         this.photos.push(photoInput)
       }
   
-      findPhoto(locationMatched){
+      findPhoto(locationMatched) {
         //How did you guys do this one?
       }
   
-      listPhotos(){
-        for(photo of this.photos){
+      listPhotos() {
+        for(photo of this.photos) {
           console.log(photo)
         }
       }
@@ -106,22 +106,22 @@ let car = {
     }
   }
   
-  class Father extends Grandfather{
+  class Father extends Grandfather {
     constructor(familyName, age){
-      super('Bob', true)
+      super('Bob', true);
       this.familyName = familyName;
       this.age = age;
     }
   }
   
-  class Son extends Father{ 
-    constructor(firstName, goodChild){
+  class Son extends Father { 
+    constructor(firstName, goodChild) {
       super('Patlut', 50)
       this.firstName = firstName;
       this.goodChild = goodChild;
     }
   
-    sayName(){
+    sayName() {
       return `My name is ${this.firstName} ${this.familyName}.`
     }
   
@@ -131,5 +131,5 @@ let car = {
   let bill = new Father ( "Bobson", 44);
   let biff = new Son ("Biff", false);
   
-  console.log(biff.sayName())
-  console.log(biff)
+  console.log(biff.sayName());
+  console.log(biff);
