@@ -1,4 +1,4 @@
-// OOP Challenges
+// OOP Challenges (Practice)
 
 let car = {
     color: 'red',
