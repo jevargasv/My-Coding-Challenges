@@ -12,17 +12,17 @@ let calculator = (answer) => {
     }
 }
 
-console.log(answer) // 6
+console.log(answer); // 6
 function calculator(4, 2) {
     return 4 - 2; // 2
 }
 answer = calculator("subtract", 4, 2)
-console.log(answer) // 2
+console.log(answer); // 2
 function calculator(4, 2) {
     return 4 / 2; // 2
 }
 answer = calculator("divide", 4, 2)
-console.log(answer) // 2
+console.log(answer); // 2
 function calculator(4, 2) {
     return 4 * 2; // 8
 }
