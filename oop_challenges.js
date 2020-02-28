@@ -23,7 +23,7 @@ let car = {
     }
   }
   
-  class Dog extends Animal{
+  class Dog extends Animal {
     speak() {
       console.log('Woof')
     }
