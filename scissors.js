@@ -26,7 +26,7 @@ if(computerChoice === "rock" && input === "scissors"){
     return true;
 }
 
-alert("You win!");``
+alert("You win!");
 return true;
 }
 
