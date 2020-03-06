@@ -58,7 +58,7 @@ for(let i = str.length-1; i >= 0; i--) {
 }
 s.split("").reverse().join("");
 
-// Variable Conditionals
+// Variable Conditionals Practice
 
 let num = 20;
 
