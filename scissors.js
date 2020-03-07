@@ -15,7 +15,7 @@ function checkInput(input, computerChoices) {
   
   let computerChoice = randomFrom(computerChoices);
   
-if(computerChoice === "rock" && input === "scissors"){
+if (computerChoice === "rock" && input === "scissors"){
     alert("You win!");
     return true;
 } else if (computerChoice === "scissors" && input === "paper"){
