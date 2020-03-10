@@ -7,7 +7,6 @@ function randomFrom(array) {
     return array[(Math.ceil(Math.random()*3))];
 }
 
-
 function checkInput(input, computerChoices) {
   if (input === "quit") {
     return true;
