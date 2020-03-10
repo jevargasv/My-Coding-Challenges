@@ -11,9 +11,10 @@ let greatestSum = newArray => {
          highSum = nextSum;
          highSum = newArray;
      }
-  }   
-}
-}
+    }   
+   }
+  }
+
 return greatestSum = [highSum];
 
 let testArr = [-1, 30, 70, 500, -9, 5];
