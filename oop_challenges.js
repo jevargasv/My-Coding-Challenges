@@ -21,7 +21,7 @@ let car = {
     speak() {
       console.log(this.name + 'Animal Speaks')
     }
-  }
+   }
   
   class Dog extends Animal {
     speak() {
@@ -54,7 +54,7 @@ let car = {
   
   //Example Two - Album
   
-    class Album{
+    class Album {
       constructor(name) {
         this.name = name;
         this.photos = [];
@@ -67,7 +67,7 @@ let car = {
       }
   
       findPhoto(locationMatched) {
-        //How did you guys do this one?
+        // How did you guys do this one?
       }
   
       listPhotos() {
