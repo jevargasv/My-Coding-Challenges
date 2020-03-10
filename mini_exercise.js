@@ -49,7 +49,7 @@ let count;
 
 console.log(arr[i] + "exists" + count + "times");
 
-// You Are a Developer (Reverse)
+// You Are a Developer (Reverse) Practice
 
 let str = "yourareadeveloper";
 
