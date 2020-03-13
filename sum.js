@@ -4,6 +4,7 @@ let array = [2, -18, 29, -34, 42, -51];
 let greatestSum = newArray => {
  let highSum = 0;
   let nextSum = 0;
+ 
    for(let i = 0; i < array.length; i++) {
    for(let j = 0; j < array.length; j++) {
      nextSum += array[j];
