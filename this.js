@@ -91,6 +91,7 @@ turtleBob.eat();
  
  
 // Example Two - With Inheritance
+
   class Animal {
     constructor(typeOfAnimal, size) {
       this.typeOfAnimal = typeOfAnimal;
@@ -108,6 +109,7 @@ turtleBob.eat();
  
  // Case One : Sub Class - No constructor
  //Lets for a second not add a constructor and see what happens.
+
   class Turtle extends Animal {
  
   }
