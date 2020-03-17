@@ -53,8 +53,8 @@ console.log(arr[i] + "exists" + count + "times");
 
 let str = "yourareadeveloper";
 
-for(let i = str.length-1; i >= 0; i--) {
-    newString += str[i]
+for (let i = str.length-1; i >= 0; i--) {
+    newString += str[i];
 }
 s.split("").reverse().join("");
 
