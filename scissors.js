@@ -58,7 +58,7 @@ function encode(word) {
   //somewhere to setore the converted characters
   let result = {};
   //next we loop over each character in the string.
-for(let position of word){
+for (let position of word) {
   //and save the charcode to the array
   result.push(word.charCodeAt(position-1));
 }
