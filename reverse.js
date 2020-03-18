@@ -33,7 +33,7 @@ let pigLatin = (word) => {
     }
 }
 
-// Palindrome
+// Palindrome Practice
 
 let palindrome = (string) => {
     if(string == string.split("").reverse().join("")) {
