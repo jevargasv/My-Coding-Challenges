@@ -74,6 +74,7 @@ document.getElementById('myId').innerText = "This is my new header two.";
 
 document.getElementById('container').innerText;
 
+// Add event listener
 
 let submitButton = document.getElementbyId("submit-button");
 let inputBox = document.getElementbyId("input-important");
