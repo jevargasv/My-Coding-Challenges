@@ -5,8 +5,8 @@ let greatestSum = newArray => {
  let highSum = 0;
   let nextSum = 0;
  
-   for(let i = 0; i < array.length; i++) {
-   for(let j = 0; j < array.length; j++) {
+   for (let i = 0; i < array.length; i++) {
+   for (let j = 0; j < array.length; j++) {
      nextSum += array[j];
      if (nextSum > highSum) {
          highSum = nextSum;
@@ -31,7 +31,7 @@ greatestSum(testArr);
 let removeDuplicateChar = (string) => {
     let mapping = {};
     let newString = '';
-    for(let i= 0; i < string.length; i++) {
+    for (let i= 0; i < string.length; i++) {
       if (!(string[i] in mapping)) {
         newString += string[i];
         mapping[string[i]] = true;
@@ -49,7 +49,7 @@ let removeDuplicateChar = (str) => {
     str = str.split("");
     console.log(str);
 
-    for(i of str) {
+    for (i of str) {
         if(counter[i.toLowerCase()] == undefined && i != "") {
             counter[i] = 1;
         }
