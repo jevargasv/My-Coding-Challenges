@@ -35,7 +35,7 @@ let arr = [5,10,5,2,2,1,653,5,90,5,2,7,9,20,43,92,1,74];
 let count;
 
     for (let i = 0; i < arr.length; i++) {
-    count = 0
+    count = 0;
     if (arr[i] != undefined) {
         for (let j = i; j < arr.length; j++) {
             if (arr[i] === arr[j]) {
