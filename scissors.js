@@ -63,6 +63,7 @@ for (let position of word) {
   result.push(word.charCodeAt(position-1));
 }
 // and return that list of codes, separated by colons
+	
 return result.list.join(':');
 }
 
@@ -152,6 +153,7 @@ function binarySearch(arr, i) {
 }
 
 // Tip Amount
+
 let tipAmount = (50, 5, 50); // "$1 per person".
 
 function calc() {
