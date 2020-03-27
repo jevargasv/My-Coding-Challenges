@@ -1,4 +1,4 @@
-// DOM exercise and practice
+// DOM Exercise and Practice
 
 let title = document.getElementbyId("nycda-title");
 
