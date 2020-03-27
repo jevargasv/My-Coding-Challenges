@@ -14,8 +14,7 @@ let compare = (numbers, value) => {
             equalTo.push(numbers[i]);
         else
             return "There is nothing to compare, you dingbats!";
-      
-    }
+      }
   }
 
 compare([10, 30, 45, 4, 21, 30], 30);
