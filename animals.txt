@@ -7,4 +7,4 @@ pidgeon: height=1, gender=male, weight=10
 bear: height=6, gender=male, weight=700
 monkey: height=2, gender=female, weight=30
 hippo: height=7, gender=male, weight=400
-
+lion: height=8, gender=male, weight=120
