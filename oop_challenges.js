@@ -32,7 +32,7 @@ let car = {
   let buddy = new Dog();
   buddy.speak();
   
-  //Example One 
+  // Example One 
   
   let multiplier = {
     value: 1,
@@ -95,7 +95,7 @@ let car = {
       // familyAlbum.findPhoto('Italy')
   
   
-  //Family - this isnt the ideal scenerio and would only be relevant if you were doing one family
+  // Family - this isnt the ideal scenerio and would only be relevant if you were doing one family
   
   class Grandfather {
     constructor(name,goodGenetics) {
