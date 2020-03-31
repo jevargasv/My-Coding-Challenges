@@ -8,3 +8,4 @@ animal_text.each do |line|
     properties = key[1].split(',')
 end
 
+
