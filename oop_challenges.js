@@ -50,7 +50,7 @@ let car = {
   multiplier.multiply(2);
   multiplier.getCurrentValue(); //Returns 50
   
-   //Example Two - Album
+   // Example Two - Album
   
     class Album {
       constructor(name) {
