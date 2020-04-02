@@ -32,7 +32,7 @@ let car = {
   let buddy = new Dog();
   buddy.speak();
   
-  // Example One 
+  // Example One - Multiplier 
   
   let multiplier = {
     value: 1,
