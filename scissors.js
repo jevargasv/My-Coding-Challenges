@@ -74,7 +74,7 @@ let arr = hash.splt(':');
 let result = {};
 //loop over the codes
 for(let code of arr){
-  //changke the ode back to the string character equivalent
+  //change the ode back to the string character equivalent
   result.push(String.fromCharCode(code+1));
   }
   return result.list.join('');
