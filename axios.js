@@ -1,8 +1,6 @@
-// Axios/DOM Challenge for Practice
+// Axios/DOM Challenge Practice
 
 let body = document.body;
-
-
 let ul = document.createElement('ul');
 let li = document.createElement('li');
 
