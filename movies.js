@@ -11,8 +11,8 @@ function nycdaWelcome(name) {
   function lineThemUp(numOne, numTwo, numThree) {
     return [numOne, numTwo, numThree];
   }
-  
-  // Arrow Functions for Practice
+ 
+// Arrow Functions for Practice
 
   let funcName = (params) => params + 2
   let funcName = () => 2
