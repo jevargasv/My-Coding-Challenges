@@ -1,13 +1,13 @@
 // Calculator Arrow JS Function Practice
 
 let calculator = (answer) => {
-    if(answer === 6) {
+    if (answer === 6) {
         return 4 + 2; // 6
-    } else if(answer === 2) {
+    } else if (answer === 2) {
         return 4 - 2; // 2
-    } else if(answer === 2) {
+    } else if (answer === 2) {
         return 4 / 2; // 2
-    } else(answer === 8) {
+    } else (answer === 8) {
         return 4 * 2; // 8
     }
 }
