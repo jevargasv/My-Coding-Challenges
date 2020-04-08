@@ -156,7 +156,7 @@ function petName(name) {
 
   function functionWithinAFunction() {
     function logStuff() {
-      console.log("Logging stuff")
+      console.log("Logging stuff");
     }
   
     return logStuff()
