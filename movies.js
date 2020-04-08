@@ -241,6 +241,6 @@ function petName(name) {
       }
     }
   }
-  console.log(moviesFlight(int, flightLengths))
+  console.log(moviesFlight(int, flightLengths));
           
           
