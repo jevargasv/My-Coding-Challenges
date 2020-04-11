@@ -68,3 +68,5 @@ if (num < 10) {
 } else {
     alert("Number is greater than 10, the num is" + num);
 }
+
+      
