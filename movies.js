@@ -14,14 +14,14 @@ function nycdaWelcome(name) {
  
 // Arrow Functions for Practice
 
-  let funcName = (params) => params + 2
-  let funcName = () => 2
+  let functName = (params) => params + 2
+  let functName = () => 2
   
-  let funcName = (params) => {
+  let functName = (params) => {
     let x = 5
     return params
   }
-  funcName();
+  functName();
   
   let defaultArgs = (argOne, argTwo = 5) => {
     return argOne + argTwo;
