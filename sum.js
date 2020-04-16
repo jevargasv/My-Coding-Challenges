@@ -1,4 +1,4 @@
-// Greatest Sum for Practice
+// Greatest Sum Practice
 
 let array = [2, -18, 29, -34, 42, -51]; 
 let greatestSum = newArray => {
