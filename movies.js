@@ -1,4 +1,4 @@
-// Random Functions for Practice
+// Random Functions Practice
 
 function nycdaWelcome(name) {
     return `Welcome to NYCDA ${name}! Enjoy your stay!`;
@@ -12,7 +12,7 @@ function nycdaWelcome(name) {
     return [numOne, numTwo, numThree];
   }
  
-// Arrow Functions for Practice
+// Arrow Functions Practice
 
   let functName = (params) => params + 2
   let functName = () => 2
@@ -87,7 +87,7 @@ let test = () => {
 
 test();
 
-// Pet Name for Practice
+// Pet Name Practice
 
 function petName(name) {
     return "My pet's name is " + name
