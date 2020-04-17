@@ -1,4 +1,4 @@
-// Running Sum Problem for Practice
+// Running Sum Problem Practice
 
 let prices = [33, 26, 99, 120, 12, 45];
 let sum = 0;
@@ -10,7 +10,7 @@ for (let i = 0; i < prices.length; i++) {
 
 }
 
-// Game of Thrones - 99 Crows on the Wall for Practice
+// Game of Thrones - 99 Crows on the Wall Practice
 
 for (let i = 99; i >= 1; i--) {
     if (i === 1) {
@@ -20,7 +20,7 @@ for (let i = 99; i >= 1; i--) {
     }
 }
 
-// Counter Problem for Practice
+// Counter Problem Practice
 
 let arr = [5,10,5,2,2,1,653,5,90,5,2,7,9,20,43,92,1,74];
 
@@ -59,7 +59,7 @@ for (let i = str.length-1; i >= 0; i--) {
       
 s.split("").reverse().join("");
 
-// Variable Conditionals for Practice
+// Variable Conditionals Practice
 
 let num = 20;
 
