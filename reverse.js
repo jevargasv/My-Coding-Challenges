@@ -61,7 +61,8 @@ let gcDivisor = (integer1, integer2) => {
     }
     return gcDivisor(integer2, integer1 % integer2);
 }
-   // another possible solution
+   
+// Another possible solution
 
    let gcDivisor = (integer1, integer2) => {
        for (i = 1; i <= Math.min(integer1, integer2); i++) {
@@ -73,7 +74,7 @@ let gcDivisor = (integer1, integer2) => {
        }
    }
 
-   // Another Possible Solution
+// Another Possible Solution
 
    let gcDivisor = (a, b) => {
        
