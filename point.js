@@ -29,7 +29,7 @@ function calculator(4, 2) {
 answer = calculator("multiply", 4, 2)
 console.log(answer) // 8
 
-// Kardashian JS Quiz
+// Kardashian Quiz
 
 let ask = (point) => {
     if(point === true) {
