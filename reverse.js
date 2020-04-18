@@ -131,3 +131,5 @@ let gcDivisor = (integer1, integer2) => {
                 return gcDivisor(b, a%b);
             }
        }
+       
+       
