@@ -43,7 +43,7 @@ playerInput = "rock";
 
 start(gameOver, computerChoices)  
 
-// NYCDA Spy Encoder
+// NYCDA Spy Encoder Practice
 
 /**
 Javascript features and functions in use: 
