@@ -1,4 +1,4 @@
-// DOM Exercise and Practice
+// DOM Exercise/Practice
 
 let title = document.getElementbyId("nycda-title");
 
@@ -21,7 +21,7 @@ document.addEventListener("keypress", (e) => {
     title.innerText = e.key;
 });
 
-// Valid Username and Password Form Practice
+// Valid Username/Password Form Practice
 
 let valiForm = document.getElementById("myvalidation");
 let emailField = document.getElementById("email");
